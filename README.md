@@ -41,3 +41,7 @@ aqui
 
 ##
 
+|    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Observação  | 
+| ------------        | ------------        | ------------ | ------------    |------------ |
+| **etl** | [Previsão de Valores de Imóveis](https://github.com/aasouzaconsult/Cientista-de-Dados/blob/master/Previs%C3%A3o%20Valores%20de%20Im%C3%B3veis/PrevisaoValores_Regressao.ipynb) | Python | data.csv | **Um projeto completo de Machine Learning**, da definição do problema, passando pela Análise Exploratória dos Dados (EDA - *Exploratory Data Analysis*), tratamento, geração do modelo (Regressão utilizando ***Regressão Linear, Decision Tree, Random Forest***) até o Deploy em Produção, utilizando **streamlit**|
+
