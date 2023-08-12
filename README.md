@@ -15,3 +15,7 @@ Opções
 *itálico* - teste
 
 Meu arquivo SQL esta no seguinte caminho - [link](https://github.com/aasouzaconsult/rep_teste/blob/main/Arquivos/Revisao.sql)
+
+```sql
+select * from tbteste;
+```
