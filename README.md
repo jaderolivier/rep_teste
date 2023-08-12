@@ -19,3 +19,7 @@ Meu arquivo SQL esta no seguinte caminho - [link](https://github.com/aasouzacons
 ```sql
 select * from tbteste;
 ```
+
+```python
+import pandas pd
+```
