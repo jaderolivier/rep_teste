@@ -16,10 +16,21 @@ Opções
 
 Meu arquivo SQL esta no seguinte caminho - [link](https://github.com/aasouzaconsult/rep_teste/blob/main/Arquivos/Revisao.sql)
 
+Este trecho abaixo mostra tal coisa
+select * from tbteste;
+
+já este fala sobre:
 ```sql
 select * from tbteste;
 ```
 
+Já aqui para ver o trecho python que faz tal coisa
 ```python
 import pandas pd
 ```
+
+# Teste
+
+## Teste
+
+### Teste
